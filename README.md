@@ -4,6 +4,8 @@ Proyecto full-stack con frontend en React, backend en FastAPI y base de datos Mo
 
 ---
 
+![alt text](<spa.png>)
+
 ## 🚀 Tecnologías utilizadas
 
 - Frontend: React + Vite

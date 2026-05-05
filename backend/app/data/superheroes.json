@@ -15,7 +15,7 @@
     "house": "marvel",
     "bio": "Genio millonario que creó una armadura tecnológica para combatir el crimen.",
     "equipment": ["armadura de hierro"],
-    "images": ["ironman1.jpg", "ironman2.jpg"]
+    "images": ["ironman1.png", "ironman2.jpg"]
   },
   {
     "name": "Capitan America",
@@ -24,7 +24,7 @@
     "house": "marvel",
     "bio": "Soldado superhumano creado durante la Segunda Guerra Mundial.",
     "equipment": ["escudo indestructible"],
-    "images": ["capitanamerica1.jpeg", "capitanamerica2.jpg"]
+    "images": ["capitanamerica1.png", "capitanamerica2.jpeg"]
   },
   {
     "name": "Thor",
@@ -33,7 +33,7 @@
     "house": "marvel",
     "bio": "Dios nórdico del trueno con el martillo Mjolnir.",
     "equipment": ["Mjolnir"],
-    "images": ["thor1.jpg", "thor2.jpg"]
+    "images": ["thor1.png", "thor2.jpg"]
   },
   {
     "name": "Hulk",
@@ -42,7 +42,7 @@
     "house": "marvel",
     "bio": "Científico que se convierte en un gigante verde cuando se enoja.",
     "equipment": [],
-    "images": ["hulk1.jpg", "hulk2.jpg"]
+    "images": ["hulk1.png", "hulk2.jpg"]
   },
   {
     "name": "Black Widow",
@@ -51,7 +51,7 @@
     "house": "marvel",
     "bio": "Ex espía rusa y experta en combate cuerpo a cuerpo.",
     "equipment": ["armas de fuego", "gadgets"],
-    "images": ["blackwindow1.jpeg", "blackwindow2.jpg"]
+    "images": ["blackwindow1.png", "blackwindow2.jpeg"]
   },
   {
     "name": "Doctor Strange",
@@ -60,7 +60,7 @@
     "house": "marvel",
     "bio": "Hechicero supremo y maestro de las artes místicas.",
     "equipment": ["Amuleto de Agamotto"],
-    "images": ["doctorstrange1.jpeg", "doctorstrange2.jpeg"]
+    "images": ["doctorstrange1.png", "doctorstranger2.jpg"]
   },
   {
     "name": "Wolverine",
@@ -69,7 +69,7 @@
     "house": "marvel",
     "bio": "Mutante con factor de curación y garras retráctiles.",
     "equipment": ["garras de adamantium"],
-    "images": ["wolverine1.jpg", "wolverine2.jpg"]
+    "images": ["wolverine1.png", "wolverine2.jpg"]
   },
   {
     "name": "Deadpool",
@@ -78,7 +78,7 @@
     "house": "marvel",
     "bio": "Mercenario con factor de curación y humor irreverente.",
     "equipment": ["espadas", "armas de fuego"],
-    "images": ["deapool1.jpeg", "deapool2.jpg"]
+    "images": ["deapool1.png", "deapool2.jpg"]
   },
   {
     "name": "Thanos",
@@ -87,7 +87,7 @@
     "house": "marvel",
     "bio": "Titán loco que busca controlar el universo con las Gemas del Infinito.",
     "equipment": ["Guantelete del Infinito"],
-    "images": ["thanos1.jpg", "thanos2.jpg"]
+    "images": ["thanos1.png", "thanos2.jpg"]
   },
   {
     "name": "Batman",
@@ -96,7 +96,7 @@
     "house": "dc",
     "bio": "Millonario justiciero que protege Gotham con tecnología y combate cuerpo a cuerpo.",
     "equipment": ["batarang", "batimóvil", "traje"],
-    "images": ["batman1.jpg", "batman2.jpg"]
+    "images": ["batman1.png", "batman2.jpg"]
   },
   {
     "name": "Superman",
@@ -105,7 +105,7 @@
     "house": "dc",
     "bio": "Extraterrestre con súper fuerza, vuelo y visión de calor.",
     "equipment": [],
-    "images": ["superman1.jpg", "superman2.jpg"]
+    "images": ["superman1.png", "superman2.jpg"]
   },
   {
     "name": "Wonder Woman",
@@ -114,7 +114,7 @@
     "house": "dc",
     "bio": "Princesa amazona con fuerza sobrehumana y equipamiento mágico.",
     "equipment": ["lazo de la verdad", "bracelets"],
-    "images": ["wonderwoman1.jpg", "wonderwoman2.jpg"]
+    "images": ["wonderwoman1.png", "wonderwoman2.jpg"]
   },
   {
     "name": "Flash",
@@ -123,7 +123,7 @@
     "house": "dc",
     "bio": "Héroe con súper velocidad.",
     "equipment": [],
-    "images": ["flahs1.jpeg", "flash2.jpg"]
+    "images": ["flash1.png", "flash2.jpeg"]
   },
   {
     "name": "Aquaman",
@@ -132,7 +132,7 @@
     "house": "dc",
     "bio": "Rey de Atlantis con control sobre la vida marina.",
     "equipment": ["tridente"],
-    "images": ["aquaman1.jpg", "aquaman2.jpg"]
+    "images": ["aquaman1.png", "aquaman2.jpg"]
   },
   {
     "name": "Cyborg",
@@ -141,7 +141,7 @@
     "house": "dc",
     "bio": "Humano con partes robóticas y súper fuerza.",
     "equipment": ["armadura cibernética"],
-    "images": ["cyborg1.jpg", "cyborg2.jpg"]
+    "images": ["cyborg1.png", "cyborg2.jpg"]
   },
   {
     "name": "Green Lantern",
@@ -150,7 +150,7 @@
     "house": "dc",
     "bio": "Portador del anillo de poder que puede crear cualquier cosa con la voluntad.",
     "equipment": ["anillo de poder"],
-    "images": ["greenlantern1.jpg", "greenlantern2.jpg"]
+    "images": ["greenlantern1.png", "greenlantern2.jpg"]
   },
   {
     "name": "Joker",
@@ -159,7 +159,7 @@
     "house": "dc",
     "bio": "El archienemigo de Batman, conocido por su locura y caos.",
     "equipment": ["gadgets explosivos"],
-    "images": ["joker1.jpeg", "joker2.jpeg"]
+    "images": ["joker1.png", "joker2.jpeg"]
   },
   {
     "name": "Lex Luthor",
@@ -177,7 +177,7 @@
     "house": "dc",
     "bio": "Ex psiquiatra convertida en criminal impredecible y aliada del Joker.",
     "equipment": ["maza", "gadgets"],
-    "images": ["harleyquinn1.jpg", "harleyquinn2.jpg"]
+    "images": ["harleyquinn1.png", "harleyquinn2.jpg"]
   },
   {
     "name": "Magneto",
@@ -186,7 +186,7 @@
     "house": "marvel",
     "bio": "Mutante con control sobre campos magnéticos.",
     "equipment": [],
-    "images": ["magneto1.jpg", "magneto2.jpg"]
+    "images": ["magneto1.png", "magneto2.jpg"]
   },
   {
     "name": "Storm",
@@ -195,7 +195,7 @@
     "house": "marvel",
     "bio": "Mutante con el poder de controlar el clima.",
     "equipment": [],
-    "images": ["storm1.jpg", "storm2.jpg"]
+    "images": ["storm1.png", "storm2.jpg"]
   },
   {
     "name": "Black Panther",
@@ -204,7 +204,7 @@
     "house": "marvel",
     "bio": "Rey de Wakanda y superhéroe con traje avanzado.",
     "equipment": ["traje de vibranio"],
-    "images": ["blackpanther1.jpg", "blackpanther2.jpg"]
+    "images": ["blackpanther1.png", "blackpanther2.jpg"]
   },
   {
     "name": "Daredevil",
@@ -213,7 +213,7 @@
     "house": "marvel",
     "bio": "Héroe ciego con sentidos agudizados y habilidades de combate.",
     "equipment": [],
-    "images": ["daredevil1.jpg", "daredevil2.jpeg"]
+    "images": ["daredevil1.png", "daredevil2.jpeg"]
   },
   {
     "name": "Venom",
@@ -222,7 +222,7 @@
     "house": "marvel",
     "bio": "Simbionte alienígena que se une a Eddie Brock.",
     "equipment": [],
-    "images": ["venom1.jpg", "venom2.jpg"]
+    "images": ["venom1.png", "venom2.jpg"]
   },
   {
     "name": "Green Goblin",
@@ -249,7 +249,7 @@
     "house": "dc",
     "bio": "Niño que puede transformarse en superhéroe poderoso.",
     "equipment": [],
-    "images": ["shazam1.jpg", "shazam2.jpg"]
+    "images": ["shazam1.png", "shazam2.jpg"]
   },
   {
     "name": "Constantine",
@@ -285,7 +285,7 @@
     "house": "marvel",
     "bio": "Herald de Galactus con un surfboard cósmico.",
     "equipment": ["tabla cósmica"],
-    "images": ["silversurfer1.jpg", "silversurfer2.jpeg"]
+    "images": ["silversurfer1.png", "silversurfer2.jpg"]
   },
   {
     "name": "Elektra",
@@ -312,7 +312,7 @@
     "house": "dc",
     "bio": "Mercenario y asesino experto.",
     "equipment": ["espadas", "armas"],
-    "images": ["deathstroke1.jpg", "deathstroke2.jpg"]
+    "images": ["deathstroke1.png", "deathstroke2.jpg"]
   },
   {
     "name": "Starfire",
@@ -330,7 +330,7 @@
     "house": "dc",
     "bio": "Aliada de Batman y experta en combate y tecnología.",
     "equipment": ["gadgets", "trajes"],
-    "images": ["batgirl1.jpg", "batgirl2.jpg"]
+    "images": ["batgirl1.png", "batgirl2.jpg"]
   },
   {
     "name": "Ghost Rider",
@@ -339,6 +339,6 @@
     "house": "marvel",
     "bio": "Cazador sobrenatural con cabeza de calavera en llamas.",
     "equipment": ["cadena"],
-    "images": ["ghostrider1.jpg", "ghostrider2.jpg"]
+    "images": ["ghostrider1.png", "ghostrider2.jpg"]
   }
 ]
