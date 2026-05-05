@@ -17,6 +17,7 @@ Proyecto full-stack con frontend en React, backend en FastAPI y base de datos Mo
 
 ## 📁 Estructura del proyecto
 
+```bash
 TP5-SPA-Superheroes/
 │
 ├── backend/
@@ -31,6 +32,7 @@ TP5-SPA-Superheroes/
 │
 ├── docker-compose.yml
 └── README.md
+```
 
 ---
 
