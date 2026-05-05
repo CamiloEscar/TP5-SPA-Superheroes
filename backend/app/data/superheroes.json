@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Spider-Man",
+    "real_name": "Peter Parker",
+    "year": 1962,
+    "house": "marvel",
+    "bio": "Fue mordido por una araña radioactiva y obtuvo superpoderes arácnidos.",
+    "equipment": ["telarañas", "traje arácnido"],
+    "images": ["spiderman1.png", "spiderman2.png"]
+  },
+  {
+    "name": "Iron Man",
+    "real_name": "Tony Stark",
+    "year": 1963,
+    "house": "marvel",
+    "bio": "Genio millonario que creó una armadura tecnológica para combatir el crimen.",
+    "equipment": ["armadura de hierro"],
+    "images": ["ironman1.jpg", "ironman2.jpg"]
+  },
+  {
+    "name": "Capitan America",
+    "real_name": "Steve Rogers",
+    "year": 1941,
+    "house": "marvel",
+    "bio": "Soldado superhumano creado durante la Segunda Guerra Mundial.",
+    "equipment": ["escudo indestructible"],
+    "images": ["capitanamerica1.jpeg", "capitanamerica2.jpg"]
+  },
+  {
+    "name": "Thor",
+    "real_name": "Thor Odinson",
+    "year": 1962,
+    "house": "marvel",
+    "bio": "Dios nórdico del trueno con el martillo Mjolnir.",
+    "equipment": ["Mjolnir"],
+    "images": ["thor1.jpg", "thor2.jpg"]
+  },
+  {
+    "name": "Hulk",
+    "real_name": "Bruce Banner",
+    "year": 1962,
+    "house": "marvel",
+    "bio": "Científico que se convierte en un gigante verde cuando se enoja.",
+    "equipment": [],
+    "images": ["hulk1.jpg", "hulk2.jpg"]
+  },
+  {
+    "name": "Black Widow",
+    "real_name": "Natasha Romanoff",
+    "year": 1964,
+    "house": "marvel",
+    "bio": "Ex espía rusa y experta en combate cuerpo a cuerpo.",
+    "equipment": ["armas de fuego", "gadgets"],
+    "images": ["blackwindow1.jpeg", "blackwindow2.jpg"]
+  },
+  {
+    "name": "Doctor Strange",
+    "real_name": "Stephen Strange",
+    "year": 1963,
+    "house": "marvel",
+    "bio": "Hechicero supremo y maestro de las artes místicas.",
+    "equipment": ["Amuleto de Agamotto"],
+    "images": ["doctorstrange1.jpeg", "doctorstrange2.jpeg"]
+  },
+  {
+    "name": "Wolverine",
+    "real_name": "Logan",
+    "year": 1974,
+    "house": "marvel",
+    "bio": "Mutante con factor de curación y garras retráctiles.",
+    "equipment": ["garras de adamantium"],
+    "images": ["wolverine1.jpg", "wolverine2.jpg"]
+  },
+  {
+    "name": "Deadpool",
+    "real_name": "Wade Wilson",
+    "year": 1991,
+    "house": "marvel",
+    "bio": "Mercenario con factor de curación y humor irreverente.",
+    "equipment": ["espadas", "armas de fuego"],
+    "images": ["deapool1.jpeg", "deapool2.jpg"]
+  },
+  {
+    "name": "Thanos",
+    "real_name": "",
+    "year": 1973,
+    "house": "marvel",
+    "bio": "Titán loco que busca controlar el universo con las Gemas del Infinito.",
+    "equipment": ["Guantelete del Infinito"],
+    "images": ["thanos1.jpg", "thanos2.jpg"]
+  },
+  {
+    "name": "Batman",
+    "real_name": "Bruce Wayne",
+    "year": 1939,
+    "house": "dc",
+    "bio": "Millonario justiciero que protege Gotham con tecnología y combate cuerpo a cuerpo.",
+    "equipment": ["batarang", "batimóvil", "traje"],
+    "images": ["batman1.jpg", "batman2.jpg"]
+  },
+  {
+    "name": "Superman",
+    "real_name": "Clark Kent",
+    "year": 1938,
+    "house": "dc",
+    "bio": "Extraterrestre con súper fuerza, vuelo y visión de calor.",
+    "equipment": [],
+    "images": ["superman1.jpg", "superman2.jpg"]
+  },
+  {
+    "name": "Wonder Woman",
+    "real_name": "Diana Prince",
+    "year": 1941,
+    "house": "dc",
+    "bio": "Princesa amazona con fuerza sobrehumana y equipamiento mágico.",
+    "equipment": ["lazo de la verdad", "bracelets"],
+    "images": ["wonderwoman1.jpg", "wonderwoman2.jpg"]
+  },
+  {
+    "name": "Flash",
+    "real_name": "Barry Allen",
+    "year": 1956,
+    "house": "dc",
+    "bio": "Héroe con súper velocidad.",
+    "equipment": [],
+    "images": ["flahs1.jpeg", "flash2.jpg"]
+  },
+  {
+    "name": "Aquaman",
+    "real_name": "Arthur Curry",
+    "year": 1941,
+    "house": "dc",
+    "bio": "Rey de Atlantis con control sobre la vida marina.",
+    "equipment": ["tridente"],
+    "images": ["aquaman1.jpg", "aquaman2.jpg"]
+  },
+  {
+    "name": "Cyborg",
+    "real_name": "Victor Stone",
+    "year": 1980,
+    "house": "dc",
+    "bio": "Humano con partes robóticas y súper fuerza.",
+    "equipment": ["armadura cibernética"],
+    "images": ["cyborg1.jpg", "cyborg2.jpg"]
+  },
+  {
+    "name": "Green Lantern",
+    "real_name": "Hal Jordan",
+    "year": 1959,
+    "house": "dc",
+    "bio": "Portador del anillo de poder que puede crear cualquier cosa con la voluntad.",
+    "equipment": ["anillo de poder"],
+    "images": ["greenlantern1.jpg", "greenlantern2.jpg"]
+  },
+  {
+    "name": "Joker",
+    "real_name": "",
+    "year": 1940,
+    "house": "dc",
+    "bio": "El archienemigo de Batman, conocido por su locura y caos.",
+    "equipment": ["gadgets explosivos"],
+    "images": ["joker1.jpeg", "joker2.jpeg"]
+  },
+  {
+    "name": "Lex Luthor",
+    "real_name": "Alexander Luthor",
+    "year": 1940,
+    "house": "dc",
+    "bio": "Enemigo de Superman, un genio multimillonario con armadura poderosa.",
+    "equipment": ["armadura", "tecnología avanzada"],
+    "images": ["lexluthor1.jpg", "lexluthor2.jpg"]
+  },
+  {
+    "name": "Harley Quinn",
+    "real_name": "Harleen Quinzel",
+    "year": 1992,
+    "house": "dc",
+    "bio": "Ex psiquiatra convertida en criminal impredecible y aliada del Joker.",
+    "equipment": ["maza", "gadgets"],
+    "images": ["harleyquinn1.jpg", "harleyquinn2.jpg"]
+  },
+  {
+    "name": "Magneto",
+    "real_name": "Erik Lehnsherr",
+    "year": 1963,
+    "house": "marvel",
+    "bio": "Mutante con control sobre campos magnéticos.",
+    "equipment": [],
+    "images": ["magneto1.jpg", "magneto2.jpg"]
+  },
+  {
+    "name": "Storm",
+    "real_name": "Ororo Munroe",
+    "year": 1975,
+    "house": "marvel",
+    "bio": "Mutante con el poder de controlar el clima.",
+    "equipment": [],
+    "images": ["storm1.jpg", "storm2.jpg"]
+  },
+  {
+    "name": "Black Panther",
+    "real_name": "T'Challa",
+    "year": 1966,
+    "house": "marvel",
+    "bio": "Rey de Wakanda y superhéroe con traje avanzado.",
+    "equipment": ["traje de vibranio"],
+    "images": ["blackpanther1.jpg", "blackpanther2.jpg"]
+  },
+  {
+    "name": "Daredevil",
+    "real_name": "Matt Murdock",
+    "year": 1964,
+    "house": "marvel",
+    "bio": "Héroe ciego con sentidos agudizados y habilidades de combate.",
+    "equipment": [],
+    "images": ["daredevil1.jpg", "daredevil2.jpeg"]
+  },
+  {
+    "name": "Venom",
+    "real_name": "Eddie Brock",
+    "year": 1988,
+    "house": "marvel",
+    "bio": "Simbionte alienígena que se une a Eddie Brock.",
+    "equipment": [],
+    "images": ["venom1.jpg", "venom2.jpg"]
+  },
+  {
+    "name": "Green Goblin",
+    "real_name": "Norman Osborn",
+    "year": 1964,
+    "house": "dc",
+    "bio": "Enemigo de Spider-Man con tecnología y psicopatía.",
+    "equipment": ["planeador", "armas"],
+    "images": ["greengoblin1.jpg", "greengoblin2.jpg"]
+  },
+  {
+    "name": "Black Canary",
+    "real_name": "Dinah Lance",
+    "year": 1947,
+    "house": "dc",
+    "bio": "Heroína con poderosos gritos sónicos.",
+    "equipment": [],
+    "images": ["blackcanary1.jpg", "blackcanary2.jpeg"]
+  },
+  {
+    "name": "Shazam",
+    "real_name": "Billy Batson",
+    "year": 1939,
+    "house": "dc",
+    "bio": "Niño que puede transformarse en superhéroe poderoso.",
+    "equipment": [],
+    "images": ["shazam1.jpg", "shazam2.jpg"]
+  },
+  {
+    "name": "Constantine",
+    "real_name": "John Constantine",
+    "year": 1985,
+    "house": "dc",
+    "bio": "Ocultista y cazador de demonios.",
+    "equipment": ["magia"],
+    "images": ["constantine1.jpg", "constantine2.jpg"]
+  },
+  {
+    "name": "Robin",
+    "real_name": "Dick Grayson",
+    "year": 1940,
+    "house": "dc",
+    "bio": "El compañero de Batman y héroe en entrenamiento.",
+    "equipment": ["trajes", "gadgets"],
+    "images": ["robin1.jpg", "robin2.jpg"]
+  },
+  {
+    "name": "Raven",
+    "real_name": "",
+    "year": 1980,
+    "house": "dc",
+    "bio": "Heroína con poderes mágicos y psíquicos.",
+    "equipment": ["magia"],
+    "images": ["raven1.jpg", "raven2.jpg"]
+  },
+  {
+    "name": "Silver Surfer",
+    "real_name": "Norrin Radd",
+    "year": 1966,
+    "house": "marvel",
+    "bio": "Herald de Galactus con un surfboard cósmico.",
+    "equipment": ["tabla cósmica"],
+    "images": ["silversurfer1.jpg", "silversurfer2.jpeg"]
+  },
+  {
+    "name": "Elektra",
+    "real_name": "Elektra Natchios",
+    "year": 1981,
+    "house": "marvel",
+    "bio": "Asesina y experta en artes marciales.",
+    "equipment": ["katanas"],
+    "images": ["elektra1.png", "elektra2.jpeg"]
+  },
+  {
+    "name": "Blade",
+    "real_name": "Eric Brooks",
+    "year": 1973,
+    "house": "marvel",
+    "bio": "Cazador de vampiros mitad humano, mitad vampiro.",
+    "equipment": ["espadas", "armas de fuego"],
+    "images": ["blade1.jpg", "blade2.jpg"]
+  },
+  {
+    "name": "Deathstroke",
+    "real_name": "Slade Wilson",
+    "year": 1980,
+    "house": "dc",
+    "bio": "Mercenario y asesino experto.",
+    "equipment": ["espadas", "armas"],
+    "images": ["deathstroke1.jpg", "deathstroke2.jpg"]
+  },
+  {
+    "name": "Starfire",
+    "real_name": "Koriand'r",
+    "year": 1980,
+    "house": "dc",
+    "bio": "Heroína alienígena con poderes de energía.",
+    "equipment": [],
+    "images": ["starfire1.jpg", "starfire2.jpg"]
+  },
+  {
+    "name": "Batgirl",
+    "real_name": "Barbara Gordon",
+    "year": 1967,
+    "house": "dc",
+    "bio": "Aliada de Batman y experta en combate y tecnología.",
+    "equipment": ["gadgets", "trajes"],
+    "images": ["batgirl1.jpg", "batgirl2.jpg"]
+  },
+  {
+    "name": "Ghost Rider",
+    "real_name": "Johnny Blaze",
+    "year": 1972,
+    "house": "marvel",
+    "bio": "Cazador sobrenatural con cabeza de calavera en llamas.",
+    "equipment": ["cadena"],
+    "images": ["ghostrider1.jpg", "ghostrider2.jpg"]
+  }
+]

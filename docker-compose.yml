@@ -1,0 +1,30 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URL=mongodb://mongo:27017
+
+  mongo:
+    image: mongo:6
+    command: ["--bind_ip_all"]
+    ports:
+      - "27017:27017"
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/frontend
+      - /frontend/node_modules
+    depends_on:
+      - backend
+    command: npm run dev -- --host 0.0.0.0
+
+volumes:
+  mongo-data:

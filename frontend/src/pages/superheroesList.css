@@ -1,0 +1,88 @@
+/* 
+
+.superheroes-list-page {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #030303; 
+  color: #e0e0e0;
+  box-sizing: border-box;
+}
+
+
+.superheroes-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  padding: 0;
+  margin-top: 40px;
+}
+
+.loading-message,
+.error-message,
+.no-results-message {
+  text-align: center;
+  padding: 30px;
+  font-size: 1.5em;
+  color: #bdb5b5;
+  background-color: #2a2a2a;
+  border-radius: 10px;
+  margin: 50px auto;
+  max-width: 600px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  border: 1px solid #444;
+}
+
+.error-message {
+  color: #ff6b6b;
+  border-color: #ff6b6b;
+}
+
+.no-results-message {
+  color: #f0f0f0;
+  border-color: #555;
+}
+
+
+.card-link {
+  flex: 0 0 calc((100% - (3 * 25px)) / 4);
+  max-width: calc((100% - (3 * 25px)) / 4);
+}
+
+
+@media (max-width: 1400px) {
+  .card-link {
+    flex: 0 0 calc((100% - (2 * 25px)) / 3);
+    max-width: calc((100% - (2 * 25px)) / 3);
+  }
+}
+
+
+@media (max-width: 1000px) {
+  .card-link {
+    flex: 0 0 calc((100% - 25px) / 2);
+    max-width: calc((100% - 25px) / 2);
+  }
+}
+
+
+@media (max-width: 650px) {
+  .superheroes-grid {
+    gap: 15px;
+  }
+  .card-link {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .superheroes-list-page {
+    padding: 15px;
+  }
+  .superheroes-grid {
+    margin-top: 30px;
+  }
+} */

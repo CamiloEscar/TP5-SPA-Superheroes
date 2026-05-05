@@ -1,0 +1,153 @@
+.superhero-detail-page {
+  padding: 20px;
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: #000;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.delete-button {
+  background-color: #dc3545;
+  margin-bottom: 25px; 
+  padding: 10px 20px;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 25px; 
+  transition:  background-color 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  
+}
+
+.delete-button:hover {
+  background-color: #c82333; 
+  transform: translateY(-2px); 
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+}
+
+.delete-button:active {
+  background-color: #a71d2a; 
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+  
+
+.back-button {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 15px;
+  background-color: #40bb30;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.1em;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+.edit-button {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 8px; /* Haz los bordes consistentes */
+  background-color: #007bff; /* Un color azul para editar */
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  margin-left: 10px; /* Espacio para separarlo del botón crear */
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+}
+
+.edit-button:active {
+  background-color: #004085;
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+@media (min-width: 768px) {
+  .detail-content {
+    flex-direction: row; 
+    align-items: flex-start;
+  }
+}
+
+.detail-carousel {
+  flex-shrink: 0; 
+  width: 100%; 
+  max-width: 350px; 
+  text-align: center;
+  position: relative; 
+}
+
+.detail-carousel img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.carousel-controls {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  padding: 0 5px;
+}
+
+.carousel-controls button {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2em;
+  line-height: 1;
+  transition: background-color 0.3s ease;
+}
+
+.carousel-controls button:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
+
+.detail-info {
+  flex-grow: 1; 
+  padding: 10px;
+}
+
+.detail-info h1 {
+  color: #f0efef;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 2.5em;
+}
+
+.detail-info p {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.detail-info strong {
+  color: #d6d4d4;
+}
